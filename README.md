@@ -1,1 +1,2 @@
-# Sample_SPA_using_Angular_Routing
+# angularjs-routing-without-component
+A simple UI-Router app without component based
